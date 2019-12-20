@@ -1,0 +1,3 @@
+C:/Users/longs/source/repos/839 Project Three/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/longs/source/repos/839 Project Three/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/longs/source/repos/839 Project Three/build/tests/Mesh/CMakeFiles/Mesh.dir
